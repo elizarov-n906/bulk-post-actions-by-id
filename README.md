@@ -62,6 +62,8 @@
 
 Copyright © 2024 Elizarov_n906
 
+https://zaplata.ru/forum/web/bulk-post-actions-by-id
+
 Этот плагин распространяется под лицензией **GNU General Public License v2 (GPLv2)**.  
 Это означает, что вы можете свободно использовать, изменять и распространять плагин при условии сохранения открытости исходного кода.
 
